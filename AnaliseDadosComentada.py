@@ -1,26 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #fazer o passo a passo
-#passo 1: pegar a base de dados e importar
-
-
-
-
-
-#passo 3: Tratamento de dados
-
-#Passo 4: Análise simples -> entender como estão acontecendo os cancelamentos
-
-#Passo 5: Análise completa -> entender a causa dos cancelamentos/possíveis soluções
-
-
-
-# In[6]:
-
 
 import pandas as pd
 
@@ -140,19 +118,10 @@ for coluna in tabela.columns: #para cada coluna dentro das colunas da minha tabe
     #INCENTIVOS PARA CONTRATO ANUAL
 
 
-# In[1]:
-
 
 get_ipython().system('pip install plotly')
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
